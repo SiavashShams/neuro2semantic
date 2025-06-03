@@ -27,6 +27,8 @@
 *Neuro2Semantic: A Transfer Learning Framework for Semantic Reconstruction of Continuous Language from Human Intracranial EEG.* Interspeech 2025.
 **Siavash Shams\*, Richard Antonello\*, Gavin Mischler, Stephan Bickel, Ashesh Mehta & Nima Mesgarani**
 
+<img src="docs/Fig1.png" alt="Figure 2A from the paper" width="500"/>
+
 ---
 
 ## Data
@@ -64,7 +66,6 @@ Each entry follows the same structure we use for real patient data.
 | Tang et al. (fMRI baseline) | 0.064 ± 0.053     | 0.032 ± 0.127     |
 | Random                      | 0.002 ± 0.003     | –0.245 ± 0.132    |
 
-![Figure 2A from the paper](docs/fig2A.png)
 
 ---
 
