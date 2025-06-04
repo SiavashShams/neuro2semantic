@@ -25,7 +25,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2506.00381-b31b1b.svg)](https://arxiv.org/abs/2506.00381)
 
 *Neuro2Semantic: A Transfer Learning Framework for Semantic Reconstruction of Continuous Language from Human Intracranial EEG.* Interspeech 2025.
-**Siavash Shams\*, Richard Antonello\*, Gavin Mischler, Stephan Bickel, Ashesh Mehta & Nima Mesgarani**
+**Siavash Shams, Richard Antonello, Gavin Mischler, Stephan Bickel, Ashesh Mehta & Nima Mesgarani**
 
 <img src="docs/Fig1.png" alt="Figure 2A from the paper" width="500"/>
 
