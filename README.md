@@ -6,6 +6,9 @@
 
 > **TL;DR** Neuro2Semantic aligns high‑gamma iEEG recordings with large‑scale text‑embedding spaces and then inverts those embeddings to fluent sentences with Vec2Text, achieving competitive performance with **≈ 30 min** of neural data per participant.
 
+![Alt text](docs/n2s.gif)
+
+
 ---
 
 
